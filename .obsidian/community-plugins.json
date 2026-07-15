@@ -6,5 +6,6 @@
   "templater-obsidian",
   "dataview",
   "marp",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "hyperlink-remover"
 ]

@@ -8,47 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a46e9a65fee04f25",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Zusammenfassungen/PuG/Attachments/Bundesländer.png"
-              },
-              "icon": "lucide-image",
-              "title": "Bundesländer"
-            }
-          },
-          {
             "id": "f7ab235a1d7ef7a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zusammenfassungen/BGWP/2. Lehrjahr/2. Servicearten SuS.md",
+                "file": "Zusammenfassungen/FU-IT/2. Lehrjahr/Netzwerk/8. UDP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Servicearten SuS"
-            }
-          },
-          {
-            "id": "0c4c63f3a5e8ca15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zusammenfassungen/BGWP/2. Lehrjahr/3. rechtliche Anforderungen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3. rechtliche Anforderungen"
+              "title": "8. UDP"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": " ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "9ca66d05d699fcdc",
@@ -122,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning Assistent Content/Zusammenfassungen/IT-TEC/1. Lehrjahr/Hardware/10. RAM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise auf 10. RAM"
+              "title": "Rückverweise"
             }
           },
           {
@@ -203,8 +174,7 @@
               "title": "advanced-tables-toolbar"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -225,44 +195,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0c4c63f3a5e8ca15",
+  "active": "f7ab235a1d7ef7a0",
   "lastOpenFiles": [
-    "Zusammenfassungen/BGWP/Attachments/Servicebereich.png",
-    "Zusammenfassungen/BGWP/2. Lehrjahr/3. rechtliche Anforderungen.md",
+    "Zusammenfassungen/FU-IT/2. Lehrjahr/Netzwerk/7. TCP-Header.md",
+    "Zusammenfassungen/FU-IT/2. Lehrjahr/Netzwerk/6. TCP.md",
+    "Zusammenfassungen/FU-IT/2. Lehrjahr/Krypto/9. IPsec.md",
+    "Zusammenfassungen/FU-IT/2. Lehrjahr/Krypto/8. VPN.md",
+    "Zusammenfassungen/FU-IT/2. Lehrjahr/Krypto/7. Digitale Signatur.md",
+    "Zusammenfassungen/FU-IT/2. Lehrjahr/Netzwerk/8. UDP.md",
+    "Zusammenfassungen/FU-IT/Attachments/TCP-Header.png",
+    "Zusammenfassungen/FU-IT/Attachments/TCP-Header 1.png",
+    "Zusammenfassungen/FU-IT/Attachments/Digitale Signatur.png",
+    "Zusammenfassungen/FU-IT/Attachments/VPN Kofigmöglichkeiten.png",
+    "Zusammenfassungen/FU-IT/2. Lehrjahr/Netzwerk/5. ICMPv4.md",
+    "Zusammenfassungen/FU-IT/Attachments/ICMPv4-Header.png",
+    "Zusammenfassungen/FU-IT/2. Lehrjahr/Netzwerk/4. Duplicate Address Detection (DAD).md",
+    "Zusammenfassungen/FU-IT/Attachments/Pasted image 20260629142327.png",
+    "Zusammenfassungen/FU-IT/2. Lehrjahr/Netzwerk/3. IPv6 Address Types.md",
+    "Zusammenfassungen/FU-IT/Attachments/Address Types.png",
+    "Zusammenfassungen/FU-IT/Attachments/Prefix Sizes.png",
+    "Zusammenfassungen/FU-IT/2. Lehrjahr/Netzwerk/2. IPv6 Adressbereiche.md",
+    "Zusammenfassungen/FU-IT/Attachments/IPv6 Casts.png",
+    "Zusammenfassungen/FU-IT/2. Lehrjahr/Netzwerk/1. IPv6.md",
+    "Zusammenfassungen/IT-TEC/2. Lehrjahr/RaspBerry_Linux/10. Bewegungsmelder (BWM).md",
+    "Zusammenfassungen/IT-TEC/2. Lehrjahr/RaspBerry_Linux/9. Python.md",
+    "Zusammenfassungen/IT-TEC/2. Lehrjahr/RaspBerry_Linux/1. Raspberry Pi.md",
+    "Zusammenfassungen/IT-TEC/2. Lehrjahr/RaspBerry_Linux/8. RGB-LED mit Node-RED.md",
+    "Zusammenfassungen/IT-TEC/Attachments/PWM.png",
+    "Zusammenfassungen/IT-TEC/2. Lehrjahr/RaspBerry_Linux/7. Breadboard.md",
+    "Zusammenfassungen/IT-TEC/2. Lehrjahr/RaspBerry_Linux/6. Die RGB-LED.md",
+    "Zusammenfassungen/IT-TEC/2. Lehrjahr/RaspBerry_Linux/5. Linux Zugriffsrechte.md",
+    "Verzeichnis.md",
+    "Zusammenfassungen/IT-TEC/2. Lehrjahr/RaspBerry_Linux/4. Die Konsole.md",
+    "Zusammenfassungen/IT-TEC/2. Lehrjahr/RaspBerry_Linux/3. RGB-LED.md",
+    "Zusammenfassungen/IT-TEC/2. Lehrjahr/RaspBerry_Linux/2. Linux.md",
     "Zusammenfassungen/BGWP/2. Lehrjahr/2. Servicearten SuS.md",
-    "Zusammenfassungen/BGWP/Attachments/IMAC R D Zyklus.png",
-    "Zusammenfassungen/PuG/Attachments/Bundesländer.png",
-    "Zusammenfassungen/PuG/2. Lehrjahr/6. Föderalismus.md",
-    "Zusammenfassungen/PuG/2. Lehrjahr/5. Politische Partizipation.md",
-    "Zusammenfassungen/PuG/2. Lehrjahr/5. Politische Partizipation 1.md",
-    "Zusammenfassungen/IT-TEC/1. Lehrjahr/Kaufmann/7. Kaufvertrag.md",
-    "Zusammenfassungen/IT-TEC/1. Lehrjahr/Kaufmann/5. Anfrage, Angebot.md",
-    "Zusammenfassungen/IT-TEC/1. Lehrjahr/Kaufmann/1. Preisbildung.md",
-    "Zusammenfassungen/IT-TEC/1. Lehrjahr/Gebäudetechnik/18. Firewall.md",
-    "Zusammenfassungen/IT-TEC/1. Lehrjahr/Gebäudetechnik/17. Sturkturanalyse.md",
-    "Zusammenfassungen/IT-TEC/1. Lehrjahr/Gebäudetechnik/15. RAID.md",
-    "Zusammenfassungen/IT-TEC/1. Lehrjahr/Gebäudetechnik/8. 8 Gebote des Datenschutzes.md",
-    "Zusammenfassungen/IT-TEC/1. Lehrjahr/Gebäudetechnik/7. Anforderung an Daten.md",
-    "Zusammenfassungen/IT-TEC/1. Lehrjahr/Gebäudetechnik/6. Kritis.md",
-    "Zusammenfassungen/IT-TEC/1. Lehrjahr/Gebäudetechnik/5. Bedrohungsszenarien & Schwachstellen.md",
-    "Zusammenfassungen/IT-TEC/1. Lehrjahr/Gebäudetechnik/3. Netzwerktopologien.md",
-    "Zusammenfassungen/IT-TEC/1. Lehrjahr/Gebäudetechnik/4. Lichtwellenleiter.md",
-    "Zusammenfassungen/IT-TEC/1. Lehrjahr/Gebäudetechnik/2. Strukturierte Verkabelung.md",
-    "Zusammenfassungen/IT-TEC/1. Lehrjahr/Gebäudetechnik/1. TP-Kabel.md",
-    "Zusammenfassungen/PuG/2. Lehrjahr/4. Verfassungsprinzipien.md",
-    "Zusammenfassungen/BGWP/2. Lehrjahr/1. EPK Ereignisgesteuerte Prozessketten.md",
-    "Zusammenfassungen/PuG/2. Lehrjahr/3. Sicherung und Schutz der Grundrechte.md",
-    "Zusammenfassungen/PuG/2. Lehrjahr/2. Grundrechte.md",
-    "Zusammenfassungen/PuG/2. Lehrjahr/1. Die Bedeutung des Staates.md",
-    "Zusammenfassungen/PuG/1. Lehrjahr/9. Sozial Grundsicherung.md",
-    "Learning Assistent Content/Zusammenfassungen/IT-TEC/Attachments/GPU-Aufbau.png",
-    "Learning Assistent Content/Zusammenfassungen/IT-TEC/Attachments/SSHD-Aufbau.png",
-    "Learning Assistent Content/Zusammenfassungen/IT-TEC/Attachments/SSD-Aufbau.png",
-    "Learning Assistent Content/Zusammenfassungen/IT-TEC/Attachments/HDD.png",
+    "Obsidian und Git auf Android einrichten.md",
+    "Zusammenfassungen/BGWP/2. Lehrjahr/3. rechtliche Anforderungen.md",
     "Unbenannt",
-    "Learning Assistent Content/Zusammenfassungen/IT-TEC/Attachments/Ergonomie am Arbeitsplatz.png",
-    "Learning Assistent Content/Zusammenfassungen/IT-TEC/Attachments/USBPorts.png",
-    "Learning Assistent Content/Zusammenfassungen/BGWP/Attachments/EPK-Blöcke.png",
     "Learning Assistent Content/Zusammenfassungen/BGWP/Attachments",
     "Untitled.canvas",
     "Untitled.base",
